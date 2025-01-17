@@ -634,9 +634,9 @@ footer {
   }
 
   .logo img {
-    width: 100%;
+    /* width: 100%; */
     height: 80px;
-    object-fit: cover;
+    object-fit: contain;
   }
 
   .header-left-contact {
